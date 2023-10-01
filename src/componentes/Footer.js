@@ -7,16 +7,16 @@ export default function Footer() {
         </div>
         <nav className="footer-navigation">
             <ul className="footer-list">
-                <a href="./index.html">
+                <a href="/">
                     <li>Home</li>
                 </a>
-                <a href="./paginas/contatos.html">
+                <a href="/contatos">
                     <li>Contatos</li>
                 </a>
-                <a href="./paginas/fotos.html">
+                <a href="/fotos">
                     <li>Fotos</li>
                 </a>
-                <a href="./paginas/comentarios.html">
+                <a href="/comentarios">
                     <li>Comentários</li>
                 </a>                     
             </ul>
