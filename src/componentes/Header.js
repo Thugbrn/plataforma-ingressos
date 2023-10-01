@@ -8,16 +8,16 @@ export default function Header() {
       </a>
       <nav>
         <ul>
-          <a href="./index.html">
+          <a href="/">
               <li>Home</li>
           </a>
-          <a href="./paginas/contatos.html">
+          <a href="/contato">
               <li>Contato</li>
           </a>
-          <a href="./paginas/fotos.html">
+          <a href="/fotos">
               <li>Fotos</li>
           </a>
-          <a href="./paginas/comentarios.html">
+          <a href="/comentarios">
               <li>Comentários</li>
           </a>                     
         </ul>

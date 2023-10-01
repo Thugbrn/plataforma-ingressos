@@ -1,12 +1,12 @@
 export default function Footer() {
   return(
     <footer>
-        <div class="rights-developed-container">
-            <span class="rights">Todos os direitos reservados ©</span>
-            <span class="rights">Desenvolvido por: Bruno Ramos</span>           
+        <div className="rights-developed-container">
+            <span className="rights">Todos os direitos reservados ©</span>
+            <span className="rights">Desenvolvido por: Bruno Ramos</span>           
         </div>
-        <nav class="footer-navigation">
-            <ul class="footer-list">
+        <nav className="footer-navigation">
+            <ul className="footer-list">
                 <a href="./index.html">
                     <li>Home</li>
                 </a>

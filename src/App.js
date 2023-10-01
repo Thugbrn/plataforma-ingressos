@@ -1,15 +1,25 @@
 import Header from './componentes/Header';
-import Main from './componentes/Main';
-import Footer from './componentes/Footer';
+import Home from './pages/Home';
+import Contato from './pages/Contato';
 import './App.css';
 
 
 function App() {
+  let pagina
+
+  switch (window.location.pathname) {
+    case '/':
+      pagina = <Home />
+    break 
+    case '/contato':
+      pagina = <Contato />
+    break 
+  }
+
   return (
     <div className="App">
-      <Header></Header>
-      <Main></Main>
-      <Footer></Footer>
+      <Header />
+      {pagina}
     </div>
   )
 }
