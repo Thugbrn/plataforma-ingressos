@@ -12,6 +12,8 @@
     font-family: 'Kdam Thmor Pro', sans-serif;
 }
 
+.container,
+.container *{background-color: initial;}
 
 header {
     height: 90px;

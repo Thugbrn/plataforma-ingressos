@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function Main() {
   return (
-    <main>
+    <main id="main-home" >
       <div id="banner"></div>
       <div id="trailer-container">
         <div className="content">

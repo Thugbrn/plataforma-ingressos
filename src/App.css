@@ -60,7 +60,7 @@ li:hover {
     justify-content: center;
 }
 
-.content {
+#main-home .content {
     width: 60%;
     display: flex;
     align-items: center;
