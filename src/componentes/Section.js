@@ -72,7 +72,7 @@ export default function SectionContato() {
 
 export function SectionComentarios() {
   return (
-    <section className="contact">
+    <section id="section-comentarios" className="contact">
       <div>
         <h2>Comentários</h2>
       </div>

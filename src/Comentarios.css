@@ -5,8 +5,7 @@
     padding: 0;
     font-family: 'Kdam Thmor Pro', sans-serif;
     list-style: none;
-    text-decoration: none;
-    
+    text-decoration: none;   
 }
 
 header {
@@ -81,7 +80,7 @@ h3 {
     background-size: cover;
 }
 
-.container {
+#section-comentarios .container {
     width: 100%;
     display: flex;
     justify-content: space-evenly;
