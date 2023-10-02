@@ -54,46 +54,46 @@ export function MainFotos() {
         <h2>Galeria</h2>
       </div>    
       <div className="gallery-container">
-          <a href="#" className="gallery-items">
+          <a href="#img" className="gallery-items">
             <img src={img1} alt="Bruce Warner" />
           </a> 
-          <a href="#" className="gallery-items">
+          <a href="#img" className="gallery-items">
             <img src={img2} alt="Fiquei mais forte do que nunca"/>
           </a> 
-          <a href="#" className="gallery-items">
+          <a href="#img" className="gallery-items">
             <img src={img3} alt="GettyImages"/>
           </a> 
-          <a href="#" className="gallery-items">
+          <a href="#img" className="gallery-items">
             <img src={img4} alt="Gotham Batman e Gordon"/>
           </a> 
-          <a href="#" className="gallery-items">
+          <a href="#img" className="gallery-items">
             <img src={img5} alt="Jim Gordon"/>
           </a> 
-          <a href="#" className="gallery-items">
+          <a href="#img" className="gallery-items">
             <img src={img6} alt="Mulher Gato"/>
           </a> 
-          <a href="#" className="gallery-items">
+          <a href="#img" className="gallery-items">
             <img src={img7} alt="Zoe Mulher Gato"/>
           </a> 
-          <a href="#" className="gallery-items">
+          <a href="#img" className="gallery-items">
             <img src={img8} alt="Prêmio The Batman"/>
           </a> 
-          <a href="#" className="gallery-items">
+          <a href="#img" className="gallery-items">
             <img src={img9} alt="Robert Pattinson"/>
           </a> 
-          <a href="#" className="gallery-items">
+          <a href="#img" className="gallery-items">
             <img src={img10} alt="The Batman 2022"/>
           </a> 
-          <a href="#" className="gallery-items">
+          <a href="#img" className="gallery-items">
             <img src={img11} alt="Batman"/>
           </a> 
-          <a href="#" className="gallery-items">
+          <a href="#img" className="gallery-items">
             <img src={img12} alt="the batman"/>
           </a> 
-          <a href="#" className="gallery-items">
+          <a href="#img" className="gallery-items">
             <img src={img13} alt="the-batman-2022-Mulher-Gato"/>
           </a> 
-          <a href="#" className="gallery-items">
+          <a href="#img" className="gallery-items">
             <img src={img14} alt="the-batman-2022-robert"/>
           </a>             
       </div>
