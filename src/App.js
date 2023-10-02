@@ -1,6 +1,8 @@
 import Header from './componentes/Header';
 import Home from './pages/Home';
 import Contato from './pages/Contato';
+import Fotos from './pages/Fotos';
+import Comentarios from './pages/Comentarios';
 import './App.css';
 
 
@@ -13,6 +15,12 @@ function App() {
     break 
     case '/contato':
       pagina = <Contato />
+    break 
+    case '/fotos':
+      pagina = <Fotos />
+    break
+    case '/comentarios':
+      pagina = <Comentarios />
     break 
   }
 

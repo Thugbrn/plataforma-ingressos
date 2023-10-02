@@ -1,4 +1,4 @@
-import SectionContato from '../componentes/SectionContato';
+import SectionContato from '../componentes/Section';
 import '../../src/Contato.css';
 
 function Contato() {
