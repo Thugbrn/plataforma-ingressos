@@ -21,7 +21,8 @@ function App() {
     break
     case '/comentarios':
       pagina = <Comentarios />
-    break 
+    break
+    default: <Home />
   }
 
   return (
