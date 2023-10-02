@@ -24,3 +24,28 @@ export default function Footer() {
     </footer>
   )
 }
+
+export function FooterFotos() {
+    return (
+      <footer>
+        <span className="copy-fotos">Copyright &copy; | Bruno Ramos</span>
+      
+        <nav class="footer-navigation">
+            <ul class="footer-list">
+                <a href="/">
+                    <li>Home</li>
+                </a>
+                <a href="./contatos.html">
+                    <li>Contatos</li>
+                </a>
+                <a href="./fotos.html">
+                    <li>Fotos</li>
+                </a>
+                <a href="./comentarios.html">
+                    <li>Comentários</li>
+                </a>                     
+            </ul>
+        </nav>
+      </footer>
+    )
+}
